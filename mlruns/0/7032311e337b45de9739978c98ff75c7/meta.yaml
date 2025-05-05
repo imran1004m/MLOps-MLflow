@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7032311e337b45de9739978c98ff75c7/artifacts
+end_time: 1746410823330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7032311e337b45de9739978c98ff75c7
+run_name: popular-elk-996
+run_uuid: 7032311e337b45de9739978c98ff75c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746410823310
+status: 3
+tags: []
+user_id: Imran

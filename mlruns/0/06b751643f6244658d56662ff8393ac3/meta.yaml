@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/06b751643f6244658d56662ff8393ac3/artifacts
+deleted_time: 1746410615743
+end_time: 1746410585528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 06b751643f6244658d56662ff8393ac3
+run_name: abundant-lynx-519
+run_uuid: 06b751643f6244658d56662ff8393ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746410585509
+status: 3
+tags: []
+user_id: Imran

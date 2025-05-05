@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/66243654afed4dc2b53352060ce2ced5/artifacts
+deleted_time: 1746410541521
+end_time: 1746410275862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 66243654afed4dc2b53352060ce2ced5
+run_name: sassy-foal-752
+run_uuid: 66243654afed4dc2b53352060ce2ced5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746410275823
+status: 3
+tags: []
+user_id: Imran
