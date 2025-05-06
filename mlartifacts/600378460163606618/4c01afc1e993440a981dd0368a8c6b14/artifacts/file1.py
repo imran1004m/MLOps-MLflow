@@ -1,6 +1,5 @@
 import mlflow
 import mlflow.sklearn
-import mlflow.sklearn
 from sklearn.datasets import load_wine
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
@@ -19,8 +18,8 @@ y = wine.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
 # Define the params for RF model
-max_depth = 10
-n_estimators = 5
+max_depth = 5
+n_estimators = 8
 
 ## mention your experiment below
 
@@ -52,12 +51,6 @@ with mlflow.start_run():
     # log artifacts using mlflow
     mlflow.log_artifact('confusion_matrix.png')
     mlflow.log_artifact(__file__)
-    
-    # tags
-    mlflow.set_tags({"Author":"Imran", "Project":"Wine classification"})
-
-    # log models
-    mlflow.sklearn.log_model(rf,"RandomForest Model")
 
 
     print(accuracy)

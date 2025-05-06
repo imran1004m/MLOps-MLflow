@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0491725a25b64763bce41bb46a6639a7/artifacts
+end_time: 1746413746428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0491725a25b64763bce41bb46a6639a7
+run_name: abundant-shrike-348
+run_uuid: 0491725a25b64763bce41bb46a6639a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746413746104
+status: 3
+tags: []
+user_id: Imran

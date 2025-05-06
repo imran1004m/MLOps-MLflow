@@ -8,7 +8,13 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+# mlflow.set_tracking_uri("http://127.0.0.1:5000") only used for local setup
+
+import dagshub
+
+import dagshub
+dagshub.init(repo_owner='imran1004m', repo_name='MLOps-MLflow', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/imran1004m/MLOps-MLflow.mlflow")
 
 # Load Wine dataset
 wine = load_wine()

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/600378460163606618/4c01afc1e993440a981dd0368a8c6b14/artifacts
+end_time: 1746414071297
+entry_point_name: ''
+experiment_id: '600378460163606618'
+lifecycle_stage: active
+run_id: 4c01afc1e993440a981dd0368a8c6b14
+run_name: legendary-loon-887
+run_uuid: 4c01afc1e993440a981dd0368a8c6b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746414071005
+status: 3
+tags: []
+user_id: Imran
